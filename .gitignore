@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+bias.pdf
+bias_tv.pdf
+run_experiments.log
